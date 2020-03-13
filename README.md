@@ -15,7 +15,7 @@ The following topics are not all the lists of DS or ALGOL. These are MUST-KNOW f
 
 1 < log n (binary search) < n < n log n (merge sort) < n2(bubble sort) < 2n < n! <br/>
 [Cheat Sheets](https://www.bigocheatsheet.com/)
-<br/>-> You have to check time-complexity of the worst case ( 10*-9 == 1s )
+<br/>-> You have to check time-complexity ( n* 10−9 s => time of the worst case )
 
 
 #### Data Structure

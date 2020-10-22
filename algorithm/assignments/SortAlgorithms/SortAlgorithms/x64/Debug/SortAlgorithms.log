@@ -1,0 +1,19 @@
+﻿  cons_destructor.cpp
+  copy_data.cpp
+  exchange_sort.cpp
+  gen_data.cpp
+c:\users\sunhy\documents\univ\3-1\ca\algol\assignments\sortalgorithms\sortalgorithms\gen_data.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  heap_copy_data.cpp
+  heap_sort.cpp
+  heap_test_result.cpp
+  insertion_sort.cpp
+  main.cpp
+c:\users\sunhy\documents\univ\3-1\ca\algol\assignments\sortalgorithms\sortalgorithms\main.cpp(14): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  merge2.cpp
+  merge_sort_2.cpp
+  print_some_elements.cpp
+  quick_sort.cpp
+  selection_sort.cpp
+  test_result.cpp
+  Generating Code...
+  SortAlgorithms.vcxproj -> C:\Users\sunhy\Documents\UNIV\3-1\CA\ALGOL\assignments\SortAlgorithms\x64\Debug\SortAlgorithms.exe

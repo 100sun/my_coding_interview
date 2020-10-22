@@ -1,0 +1,7 @@
+﻿  SparsePoly.cpp
+testSparsePoly.obj : error LNK2005: _main이(가) SparsePoly.obj에 이미 정의되어 있습니다.
+testSparsePoly.obj : error LNK2019: "public: __thiscall SparsePoly::SparsePoly(void)" (??0SparsePoly@@QAE@XZ) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+testSparsePoly.obj : error LNK2019: "public: void __thiscall SparsePoly::read(void)" (?read@SparsePoly@@QAEXXZ) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+testSparsePoly.obj : error LNK2019: "public: void __thiscall SparsePoly::add(class SparsePoly,class SparsePoly)" (?add@SparsePoly@@QAEXV1@0@Z) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+testSparsePoly.obj : error LNK2019: "public: void __thiscall SparsePoly::display(char const *)" (?display@SparsePoly@@QAEXPBD@Z) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Users\sunhy\OneDrive\문서\Univ\2-1\Date Structure\3\SparsePoly\Debug\SparsePoly.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.
